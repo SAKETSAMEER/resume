@@ -30,7 +30,7 @@ I'm **Saket Sameer**, a passionate Frontend Developer with a strong foundation i
 
 ## 🌐 Projects
 
-- **Personal Portfolio Website:** Showcasing my projects, skills, and contact information. [Live Demo]([https://example.com](https://samsak-portfolio.netlify.app/))  
+- **Personal Portfolio Website:** Showcasing my projects, skills, and contact information. [Live Demo](https://samsak-portfolio.netlify.app/)  
 - **Other Projects:** Details available in my GitHub repositories.
 
 ## 📫 Contact
